@@ -2,6 +2,8 @@
 
 A simple Python tool to download Instagram Reels using `yt-dlp`. Available as both a command-line tool and a GUI application.
 
+Without any Login Credentials and Session ID's and API keys
+
 
 ## Features
 - Downloads Instagram Reels in highest available quality
